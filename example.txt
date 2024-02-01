@@ -1,2 +1,2 @@
 this text file will be pushed
-this is text is already pushed
+this is text 
